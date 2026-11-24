@@ -78,5 +78,8 @@ FOR DOCUMENTS
 •	Cost-effective optimization: Adjusting prompts is the fastest and cheapest way to improve output quality without retraining models.
 •	Advanced techniques: Methods like chain-of-thought and role assignments help guide logical reasoning and formatting
 
+<img width="1041" height="707" alt="image" src="https://github.com/user-attachments/assets/c43976f4-cc4b-495d-809e-777f07d67ec8" />
+
+
 ## CONCLUSION
 In conclusion, prompt engineering serves as the essential communication bridge that bridges human intent and machine understanding to maximize the performance of artificial intelligence. Prompt engineering is important because it directly controls the quality, accuracy, and relevance of outputs from artificial intelligence. Traditional prompt engineering is largely obsolete, but the core discipline has evolved into context engineering and system architecture design. 
